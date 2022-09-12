@@ -17,7 +17,7 @@ pipeline{
             steps{
             
                    
-                        echo "relase the code to artifactory"
+                        echo "relase the code"
                 
                } 
                
